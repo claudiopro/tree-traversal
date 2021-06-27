@@ -1,6 +1,8 @@
 # tree-traversal
 
-Can find a node by equality in a tree with pointers to child nodes but not parents
+Can find a node by equality in a tree with pointers to child nodes but not parents.
+
+![](find-x-here-it-is.png)
 
 ## Tests
 
