@@ -96,7 +96,7 @@ test("single level, single child", () => {
 	expect(find(tree, x)).toEqual([0]);
 });
 
-test("balanced tree, two levels, linear", () => {
+test("unbalanced tree, linear, two levels", () => {
 	//
 	// R
 	// |
